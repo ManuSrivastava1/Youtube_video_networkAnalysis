@@ -1,0 +1,10 @@
+Updating crawl
+
+ID from 0222-0404 add>=730
+video ID, views, rate, rates, comments
+
+start:  0409 21:11:20
+finish:  0410 2:55:36
+
+video	time
+247526	20656

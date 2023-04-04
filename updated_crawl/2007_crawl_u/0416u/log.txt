@@ -1,0 +1,10 @@
+Updating crawl
+
+ID from 0222-0413 add>=730
+video ID, views, rate, rates, comments
+
+start:  0416 20:59:28
+finish:  0417 4:31:03
+
+video	time
+316313	27145
